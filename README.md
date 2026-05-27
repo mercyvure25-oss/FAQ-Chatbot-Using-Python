@@ -1,4 +1,40 @@
-# FAQ-Chatbot-Using-Python
+CodeAlpha AI Internship - Task 2
+
+Project Description
+
+This project is a simple AI-powered FAQ Chatbot developed using Python and NLP techniques.
+
+Features
+
+NLP Text Preprocessing
+
+Tokenization
+
+Stopword Removal
+
+TF-IDF Vectorization
+
+Cosine Similarity Matching
+
+Technologies Used
+
+Python
+
+NLTK
+
+Scikit-learn
+
+Sample Output
+
+You: what is aiChatbot: AI means Artificial Intelligence.
+
+Repository Name
+
+FAQ-Chatbot-Using-Python
+
+Author
+
+Mercy Vure
 An AI-powered FAQ Chatbot developed using Python, NLP, TF-IDF Vectorization, and Cosine Similarity. This chatbot matches user questions with predefined FAQs and provides intelligent responses interactively
 
 CodeAlpha AI Internship - Task 2
